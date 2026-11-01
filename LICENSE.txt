@@ -1,0 +1,9 @@
+Copyright (c) 2026 Ryutaro Yonezu. All rights reserved.
+
+No general copyright license is granted by this notice. This applies to the
+manuscript, source code, certificates, and other original material in this
+release, subject to any separately identified third-party rights.
+
+Public availability does not grant a general permission to redistribute or
+reuse copyright-protected material. The work is not human peer-reviewed.
+Novelty is INCONCLUSIVE. The mathematical proof is computer-assisted.
