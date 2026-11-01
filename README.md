@@ -8,6 +8,9 @@
 
 ## Publication files
 
+**Zenodo Preprint:** [10.5281/zenodo.23857839](https://zenodo.org/records/23857839)  
+**GitHub Release:** [v1.0](https://github.com/yonezaemon1-hub/no48-length-two-edit-distance/releases/tag/v1.0)
+
 - [English preprint PDF](No48_Length_Two_Edit_Distance_v1_0.pdf)
 - [Reproducibility ZIP](No48_Reproducibility_v1_0_20261101.zip)
 - [SHA256 checksums](SHA256SUMS.txt)
